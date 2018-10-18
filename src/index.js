@@ -6,7 +6,6 @@ import countries from '../countries.json';
 import feeds from '../feed_data.json';
 import operators from '../operator_data.json';
 
-const https = require('follow-redirects').https;
 
 var map = L.map('map_isochrone', {
     scrollWheelZoom: true
