@@ -1,5 +1,5 @@
 {
-  "name": "gtfs-worldwide",
+  "name": "transitland-worldmap",
   "version": "0.0.1",
   "description": "Visualization of all available GTFS feeds according to https://transit.land",
   "private": true,
